@@ -1,2 +1,2 @@
 # ColabPublicWorkbooks
-Google Colab Public Shared Woorkbooks
+Google Colab Public Workbooks
